@@ -1,5 +1,4 @@
-# tp2_ibd
-Trabalho Prático 2 de Introdução a Banco de Dados
+## Trabalho Prático 2 - Introdução a Banco de Dados
 
 ## Matrículas
 

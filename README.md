@@ -2,5 +2,6 @@
 
 ## Matrículas
 
-João Antonio Oliveira Pedrosa: 2019006752 \\
+João Antonio Oliveira Pedrosa: 2019006752 
+
 Pedro Henrique E. Dalla-Lana: 2020420613
